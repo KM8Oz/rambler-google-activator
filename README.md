@@ -1,6 +1,4 @@
-# """+==============================+"""
-# """| Rambler.ru Google Activator  |"""
-# """+==============================+"""
+# Rambler.ru Google Activator
 
 ## usage: 
 
